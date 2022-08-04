@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.medilab</groupId>
 	<artifactId>medilab-morning-preclinic</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>medilab-morning-preclinic-war</name>
 	<description>Demo project for Spring Boot</description>
