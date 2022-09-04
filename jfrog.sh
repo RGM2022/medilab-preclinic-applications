@@ -25,3 +25,4 @@ url=$path/$artifact_name
 echo $url
 wget  --user=$userName --password=$password $url
 cp $artifact_name medilab-morning-preclinic.war
+rm -r $artifact_name
